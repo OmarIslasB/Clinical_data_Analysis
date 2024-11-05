@@ -1,4 +1,6 @@
 # Clinical_data_Analysis
+### Open the "Sobrevida.ipynb" file
+
 
 Welcome to my GitHub repository, where I showcase a collection of projects and works
 related to the analysis of clinical trial data and patient clinical data.
